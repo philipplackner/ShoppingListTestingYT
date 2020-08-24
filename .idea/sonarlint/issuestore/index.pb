@@ -27,3 +27,9 @@ Y
 )app/src/main/res/layout/item_shopping.xml,f\4\f4d9f705a02c77dc7dda11cb66bd5c30f5499062
 R
 "app/src/main/res/values/styles.xml,f\7\f79cc2688e29fcbc286fda14ae07b27c9e83690f
+‰
+Yapp/src/androidTest/java/com/androiddevs/shoppinglisttestingyt/LiveDataUtilAndroidTest.kt,7\1\71be9acdd7a63d9e1558e942a20fd184d83095b1
+L
+.idea/codeStyles/Project.xml,6\e\6ecd6000a7b6f4a2884412ff19f74193ed089648
+Œ
+\app/src/androidTest/java/com/androiddevs/shoppinglisttestingyt/data/local/ShoppingDaoTest.kt,9\d\9dbd52ee29d981b5fe5b980cec7674b86f7677f1
