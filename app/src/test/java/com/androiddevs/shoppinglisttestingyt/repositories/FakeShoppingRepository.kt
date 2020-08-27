@@ -16,7 +16,7 @@ class FakeShoppingRepository : ShoppingRepository {
     private var shouldReturnNetworkError = false
 
     fun setShouldReturnNetworkError(value: Boolean) {
-
+        shouldReturnNetworkError = value
     }
 
     private fun refreshLiveData() {
