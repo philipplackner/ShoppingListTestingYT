@@ -33,3 +33,24 @@ L
 .idea/codeStyles/Project.xml,6\e\6ecd6000a7b6f4a2884412ff19f74193ed089648
 å
 \app/src/androidTest/java/com/androiddevs/shoppinglisttestingyt/data/local/ShoppingDaoTest.kt,9\d\9dbd52ee29d981b5fe5b980cec7674b86f7677f1
+@
+local.properties,0\7\0712df971a99ac4d2fccb8e0fb19f377f3374cca
+A
+gradle.properties,2\a\2afbb999f001938c88fa43fc2ef52abf0f8213e4
+z
+Japp/src/main/java/com/androiddevs/shoppinglisttestingyt/other/Constants.kt,7\3\73e4f23ac8696f269319aaa20b16ca999c1bc43c
+é
+^app/src/main/java/com/androiddevs/shoppinglisttestingyt/data/remote/responses/ImageResponse.kt,b\0\b04a068bb923ddaaceb13ea913d23b3a4dcf9321
+å
+\app/src/main/java/com/androiddevs/shoppinglisttestingyt/data/remote/responses/ImageResult.kt,2\c\2c3c472efc750187d570a679081308dc9777f9d4
+Å
+Qapp/src/main/java/com/androiddevs/shoppinglisttestingyt/data/remote/PixabayAPI.kt,6\8\684b8e63e9ccb804b682d8c8ee13f6c39a832677
+~
+Napp/src/main/java/com/androiddevs/shoppinglisttestingyt/ShoppingApplication.kt,a\a\aae3a19b854e70a6c94b9f5eca8e1a7ff9f4ce6d
+P
+ app/src/main/AndroidManifest.xml,8\c\8c55c3ccc257e5907959013f99656e4c8ec3903e
+:
+
+.gitignore,a\5\a5cc2925ca8258af241be7e5b0381edf30266302
+w
+Gapp/src/main/java/com/androiddevs/shoppinglisttestingyt/di/AppModule.kt,3\8\380c9e933931159aa08cddf1d18d7e5aa789f301
