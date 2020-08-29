@@ -54,3 +54,11 @@ P
 .gitignore,a\5\a5cc2925ca8258af241be7e5b0381edf30266302
 w
 Gapp/src/main/java/com/androiddevs/shoppinglisttestingyt/di/AppModule.kt,3\8\380c9e933931159aa08cddf1d18d7e5aa789f301
+y
+Iapp/src/main/java/com/androiddevs/shoppinglisttestingyt/other/Resource.kt,6\9\69b6c589ee1384673d8777f252d188bcfd85eca6
+‘
+aapp/src/main/java/com/androiddevs/shoppinglisttestingyt/repositories/DefaultShoppingRepository.kt,1\c\1c105fa1f0acec04f629b4a44f84430b9f1448c3
+Š
+Zapp/src/main/java/com/androiddevs/shoppinglisttestingyt/repositories/ShoppingRepository.kt,8\a\8af7a6052a81dde11da68924a69a86644220760a
+Ž
+^app/src/test/java/com/androiddevs/shoppinglisttestingyt/repositories/FakeShoppingRepository.kt,1\9\19da2da72f55d6c8c65a0b236db9fe43b0bee70e
