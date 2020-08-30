@@ -80,3 +80,7 @@ Kapp/src/test/java/com/androiddevs/shoppinglisttestingyt/LiveDataUtilTest.kt,8\
 Lapp/src/test/java/com/androiddevs/shoppinglisttestingyt/MainCoroutineRule.kt,7\8\78383dafe788338c0c3ed92faa34347323b2abe4
 ƒ
 Sapp/src/test/java/com/androiddevs/shoppinglisttestingyt/ui/ShoppingViewModelTest.kt,2\9\292e50e44eaf4c13cd15f48e1c54a7793d61c11a
+€
+Papp/src/androidTest/java/com/androiddevs/shoppinglisttestingyt/HiltTestRunner.kt,1\d\1d1263ead624d5f9ff5a5d9b7e4bd684e923918a
+‚
+Rapp/src/androidTest/java/com/androiddevs/shoppinglisttestingyt/di/TestAppModule.kt,4\6\4698ca7af916ee917eb2c3e41e3c4f3c9ae57652
