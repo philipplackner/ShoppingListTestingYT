@@ -1,8 +1,6 @@
 
 <
 build.gradle,f\0\f07866736216be0ee2aba49e392191aeae700a35
-w
-Gapp/src/main/java/com/androiddevs/shoppinglisttestingyt/MainActivity.kt,8\f\8fbf11f797c8e037ba6ce9fc6474eec50cfca9a9
 @
 app/build.gradle,f\4\f4a01d6a4fcb971362ec00a83903fd3902f52164
 ‚
@@ -62,3 +60,23 @@ aapp/src/main/java/com/androiddevs/shoppinglisttestingyt/repositories/DefaultSho
 Zapp/src/main/java/com/androiddevs/shoppinglisttestingyt/repositories/ShoppingRepository.kt,8\a\8af7a6052a81dde11da68924a69a86644220760a
 Ž
 ^app/src/test/java/com/androiddevs/shoppinglisttestingyt/repositories/FakeShoppingRepository.kt,1\9\19da2da72f55d6c8c65a0b236db9fe43b0bee70e
+]
+-app/src/main/res/layout/fragment_shopping.xml,5\6\5673755f8024653ba3bc857667f5f8b8cae6b750
+v
+Fapp/src/main/java/com/androiddevs/shoppinglisttestingyt/other/Event.kt,e\c\ec978d88c2b48a096906b5d3d957aeff1f5bc223
+…
+Uapp/src/main/java/com/androiddevs/shoppinglisttestingyt/ui/AddShoppingItemFragment.kt,a\5\a5fd8f0c612ac102e4a03c14725ea49d89848c9a
+z
+Japp/src/main/java/com/androiddevs/shoppinglisttestingyt/ui/MainActivity.kt,d\1\d1bed8ecb07b82be89a304dbdced50ac6cdd2800
+~
+Napp/src/main/java/com/androiddevs/shoppinglisttestingyt/ui/ShoppingFragment.kt,8\4\842c5ac7c1885e8b7ddf646a5c496241f030cfd1
+
+Oapp/src/main/java/com/androiddevs/shoppinglisttestingyt/ui/ShoppingViewModel.kt,f\7\f729d1e416a3abca12a51d32931c680814e8ff86
+
+Oapp/src/main/java/com/androiddevs/shoppinglisttestingyt/ui/ImagePickFragment.kt,c\d\cd213cb26608cb1de16d62aef2fbd8e0a5f16720
+{
+Kapp/src/test/java/com/androiddevs/shoppinglisttestingyt/LiveDataUtilTest.kt,8\3\831bbb7a142b2683c3b84cbe84fde3ff433155f8
+|
+Lapp/src/test/java/com/androiddevs/shoppinglisttestingyt/MainCoroutineRule.kt,7\8\78383dafe788338c0c3ed92faa34347323b2abe4
+ƒ
+Sapp/src/test/java/com/androiddevs/shoppinglisttestingyt/ui/ShoppingViewModelTest.kt,2\9\292e50e44eaf4c13cd15f48e1c54a7793d61c11a
