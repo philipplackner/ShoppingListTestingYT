@@ -13,8 +13,6 @@ X
 (app/src/main/res/drawable-v24/ic_add.xml,b\9\b964d991fc1bbbaf61c452ed055cabc8221b02dc
 Z
 *app/src/main/res/drawable-v24/ic_image.xml,c\6\c6212ad307d635d23e721c7286cda4b02c9c1373
-Y
-)app/src/main/res/layout/activity_main.xml,7\6\76b07e40f24cce093536731477540f12e7da3cb6
 f
 6app/src/main/res/layout/fragment_add_shopping_item.xml,2\9\2997a8be7aac2bd03dbe97e035d91a15fed48be2
 _
@@ -84,3 +82,13 @@ Sapp/src/test/java/com/androiddevs/shoppinglisttestingyt/ui/ShoppingViewModelTes
 Papp/src/androidTest/java/com/androiddevs/shoppinglisttestingyt/HiltTestRunner.kt,1\d\1d1263ead624d5f9ff5a5d9b7e4bd684e923918a
 Ç
 Rapp/src/androidTest/java/com/androiddevs/shoppinglisttestingyt/di/TestAppModule.kt,4\6\4698ca7af916ee917eb2c3e41e3c4f3c9ae57652
+|
+Lapp/src/debug/java/com/androiddevs/shoppinglisttestingyt/HiltTestActivity.kt,8\0\8030dc433e83f50cb893973e9f4f97bad3e11816
+Q
+!app/src/debug/AndroidManifest.xml,6\4\64e40361e5f707c52d6c7e7a1c8739d3cdfac01e
+y
+Iapp/src/androidTest/java/com/androiddevs/shoppinglisttestingyt/HiltExt.kt,3\d\3dc7031260f1e5d1ad2bb29fb433818ab05dd40b
+â
+Yapp/src/androidTest/java/com/androiddevs/shoppinglisttestingyt/ui/ShoppingFragmentTest.kt,a\b\ab5cb0d273ebb26373008181283ff5cc340c3c29
+ê
+`app/src/androidTest/java/com/androiddevs/shoppinglisttestingyt/ui/AddShoppingItemFragmentTest.kt,e\e\ee3f173254313e9eeed0bbbac7ce7cceba2493a1
