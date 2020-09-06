@@ -92,3 +92,11 @@ Iapp/src/androidTest/java/com/androiddevs/shoppinglisttestingyt/HiltExt.kt,3\d\
 Yapp/src/androidTest/java/com/androiddevs/shoppinglisttestingyt/ui/ShoppingFragmentTest.kt,a\b\ab5cb0d273ebb26373008181283ff5cc340c3c29
 ê
 `app/src/androidTest/java/com/androiddevs/shoppinglisttestingyt/ui/AddShoppingItemFragmentTest.kt,e\e\ee3f173254313e9eeed0bbbac7ce7cceba2493a1
+Ä
+Papp/src/main/java/com/androiddevs/shoppinglisttestingyt/adapters/ImageAdapter.kt,4\b\4b8938838a3befafb0c1047d2a57d5efcc57dee6
+Ö
+Uapp/src/main/java/com/androiddevs/shoppinglisttestingyt/ui/ShoppingFragmentFactory.kt,1\f\1fad5e499d0954e58638ccd62f48b7f27e6f0202
+†
+papp/src/androidTest/java/com/androiddevs/shoppinglisttestingyt/repositories/FakeShoppingRepositoryAndroidTest.kt,f\1\f17e15ebc10ff456cf98c3e5e84d8681f727242e
+ä
+Zapp/src/androidTest/java/com/androiddevs/shoppinglisttestingyt/ui/ImagePickFragmentTest.kt,a\9\a967bcb89e919dce5c9fc0967082df64006e1a61
