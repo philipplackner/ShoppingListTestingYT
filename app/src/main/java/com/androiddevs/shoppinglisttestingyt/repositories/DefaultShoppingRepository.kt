@@ -1,5 +1,6 @@
 package com.androiddevs.shoppinglisttestingyt.repositories
 
+import android.util.Log
 import androidx.lifecycle.LiveData
 import com.androiddevs.shoppinglisttestingyt.data.local.ShoppingDao
 import com.androiddevs.shoppinglisttestingyt.data.local.ShoppingItem
@@ -41,6 +42,7 @@ class DefaultShoppingRepository @Inject constructor(
                 Resource.error("An unknown error occured", null)
             }
         } catch(e: Exception) {
+            Log.e("EXCEPTION", "EXCEPTION:", e)
             Resource.error("Couldn't reach the server. Check your internet connection", null)
         }
     }

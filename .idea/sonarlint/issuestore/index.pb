@@ -15,14 +15,10 @@ Z
 *app/src/main/res/drawable-v24/ic_image.xml,c\6\c6212ad307d635d23e721c7286cda4b02c9c1373
 f
 6app/src/main/res/layout/fragment_add_shopping_item.xml,2\9\2997a8be7aac2bd03dbe97e035d91a15fed48be2
-_
-/app/src/main/res/layout/fragment_image_pick.xml,4\a\4a0a27a1acb9158d71f57d5afbc1624cebb2c3bf
 V
 &app/src/main/res/layout/item_image.xml,1\7\17058ee8b3e2f7c5f78fa14d929d419145fbe2c9
 Y
 )app/src/main/res/layout/item_shopping.xml,f\4\f4d9f705a02c77dc7dda11cb66bd5c30f5499062
-R
-"app/src/main/res/values/styles.xml,f\7\f79cc2688e29fcbc286fda14ae07b27c9e83690f
 â
 Yapp/src/androidTest/java/com/androiddevs/shoppinglisttestingyt/LiveDataUtilAndroidTest.kt,7\1\71be9acdd7a63d9e1558e942a20fd184d83095b1
 L
@@ -100,3 +96,9 @@ Uapp/src/main/java/com/androiddevs/shoppinglisttestingyt/ui/ShoppingFragmentFact
 papp/src/androidTest/java/com/androiddevs/shoppinglisttestingyt/repositories/FakeShoppingRepositoryAndroidTest.kt,f\1\f17e15ebc10ff456cf98c3e5e84d8681f727242e
 ä
 Zapp/src/androidTest/java/com/androiddevs/shoppinglisttestingyt/ui/ImagePickFragmentTest.kt,a\9\a967bcb89e919dce5c9fc0967082df64006e1a61
+á
+Wapp/src/main/java/com/androiddevs/shoppinglisttestingyt/adapters/ShoppingItemAdapter.kt,f\2\f21474625c1d0a466ac9809b31014f87c11139b5
+ê
+`app/src/androidTest/java/com/androiddevs/shoppinglisttestingyt/ui/TestShoppingFragmentFactory.kt,d\3\d3755fd8618e134920fbda814bdd3a0c488c2062
+Ñ
+Tapp/src/main/java/com/androiddevs/shoppinglisttestingyt/ui/FactoryNavHostFragment.kt,6\9\69f7d778fc8e00c5c492a00c468009d8b8540ccb
