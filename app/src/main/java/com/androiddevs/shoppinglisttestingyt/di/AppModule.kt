@@ -4,8 +4,8 @@ import android.content.Context
 import androidx.room.Room
 import com.androiddevs.shoppinglisttestingyt.data.local.ShoppingItemDatabase
 import com.androiddevs.shoppinglisttestingyt.data.remote.PixabayAPI
-import com.androiddevs.shoppinglisttestingyt.other.Constants.BASE_URL
-import com.androiddevs.shoppinglisttestingyt.other.Constants.DATABASE_NAME
+import com.androiddevs.shoppinglisttestingyt.base.Constants.BASE_URL
+import com.androiddevs.shoppinglisttestingyt.base.Constants.DATABASE_NAME
 import dagger.Module
 import dagger.Provides
 import dagger.hilt.InstallIn
