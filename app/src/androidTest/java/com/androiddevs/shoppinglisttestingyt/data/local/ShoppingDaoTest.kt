@@ -8,7 +8,7 @@ import androidx.test.filters.SmallTest
 import com.androiddevs.shoppinglisttestingyt.getOrAwaitValue
 import com.google.common.truth.Truth.assertThat
 import kotlinx.coroutines.ExperimentalCoroutinesApi
-import kotlinx.coroutines.test.runBlockingTest
+import kotlinx.coroutines.test.runTest
 import org.junit.After
 import org.junit.Before
 import org.junit.Rule
@@ -28,35 +28,44 @@ class ShoppingDaoTest {
 
     @Before
     fun setup() {
-        println("setup1")
         database = Room.inMemoryDatabaseBuilder(
             ApplicationProvider.getApplicationContext(),
             ShoppingItemDatabase::class.java
         ).allowMainThreadQueries().build()
-        println("setup2")
         dao = database.shoppingDao()
-        println("setup3")
     }
 
     @After
     fun teardown() {
-        println("teardown1")
         database.close()
-        println("teardown2")
     }
 
     @Test
-    fun testInsert() = runBlockingTest {
-        println("testInsert1")
+    fun testInsert() = runTest {
         val shoppingItem = ShoppingItem("name", 1, 1f, "url", 1)
 
-        println("testInsert2")
         dao.insertShoppingItem(shoppingItem)
 
-        println("testInsert3")
         val shoppingItems = dao.observeAllShoppingItems().getOrAwaitValue()
 
         assertThat(shoppingItems).contains(shoppingItem)
+    }
+
+    @Test
+    fun testDelete() = runTest {
+        val shoppingItem = ShoppingItem("name", 1, 1f, "url", 1)
+
+        dao.insertShoppingItem(shoppingItem)
+
+        val shoppingItemsAfterInsert = dao.observeAllShoppingItems().getOrAwaitValue()
+
+        assertThat(shoppingItemsAfterInsert).contains(shoppingItem)
+
+        dao.deleteShoppingItem(shoppingItem)
+
+        val shoppingItemsAfterDelete = dao.observeAllShoppingItems().getOrAwaitValue()
+
+        assertThat(shoppingItemsAfterDelete).doesNotContain(shoppingItem)
     }
 
 }
